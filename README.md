@@ -1,13 +1,3 @@
-Running the Updated Program on Windows
-1. Ensure you have Python and Pillow installed.
-2. Open Command Prompt.
-3. Navigate to the script directory (find path to desktop folder, ex: C:// ....)
-4. Input the following to the command prompt: 
-	cd file/script address
-5. Run the script:
-	>image_sorting_program_enhanced_mover_auto_sorter.py
-6. Open with Python, then go to Run>Run Module. A new window shoudl appear showing the image sorting program.
-
 How to use program:
 1. Select image source folder (ex: SD card folder)
 2. Open source folder when prompted
